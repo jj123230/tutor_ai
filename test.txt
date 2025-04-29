@@ -1,0 +1,1 @@
+python F:\Downloads\2025Work\bots\tutor_ai\tutor_ai.py F:\Downloads\2025Work\bots\tutor_ai
