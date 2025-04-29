@@ -1,0 +1,1 @@
+pip install newspaper3k nltk fake_useragent newscatcherapi feedparser feedsearch line-bot-sdk
